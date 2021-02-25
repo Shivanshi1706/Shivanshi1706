@@ -17,7 +17,7 @@ Hi, I'm Shivanshi Verma, a self taught  💻 developer, currently  studying in I
 
 
 
-  <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" />
+  <img align="right" alt="GIF" width="400px" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy.gif" />
   
   
   
