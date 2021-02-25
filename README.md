@@ -32,7 +32,6 @@ Hi, I'm Shivanshi Verma, a self taught  💻 developer, currently  studying in I
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/typescript.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -40,6 +39,5 @@ Hi, I'm Shivanshi Verma, a self taught  💻 developer, currently  studying in I
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/google-cloud.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/html5.svg"></code>
 <code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 
